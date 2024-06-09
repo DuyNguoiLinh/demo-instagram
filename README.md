@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Figma Ui 
 -[figma : Instagram Ui Screens] (https://www.figma.com/design/kZFT87C0ro5S0VmhostsKs/Instagram-UI-Screens-(Community)?node-id=0-2&t=5kvNyqyL9e2wrDrm-0)
 ## Screenshot
+<img src="https://github.com/DuyNguoiLinh/demo-instagram/blob/master/assets/images/demo_instagram.png?raw=true" alt="main_Screen" width="300"/>
+<img src="https://github.com/DuyNguoiLinh/demo-instagram/blob/master/assets/images/demo_instagram2.png?raw=true" alt="search_screen" width="300"/>
+<img src="https://github.com/DuyNguoiLinh/demo-instagram/blob/master/assets/images/demo_instagram3.png?raw=true" alt="screen" width="300"/>
